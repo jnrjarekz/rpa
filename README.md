@@ -1,7 +1,7 @@
 # rpa
 Stanbic Digital assessment on robotic process automation using selenium
 # Installation
-Use the package manager [pip] (https://pip.pypa.io/en/stable/) to install [selenium](http://www.seleniumhq.org/) and msgpack
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install [selenium](http://www.seleniumhq.org/) and msgpack
 ```bash
 pip install selenium
 pip install msgpack
@@ -17,3 +17,4 @@ python .\rpa.py
 
 # Robot in Action
 A link to the video recording of the script automating the form filling process.
+[click_here](https://drive.google.com/file/d/13_gIKM5x0AqkV0xYHOSM05ejVDNPSXAj/view?usp=drivesdk)
